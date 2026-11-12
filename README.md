@@ -1,17 +1,13 @@
 <h1>AI ML</h1>
 
-<h2>Data Processing:</h2>     
-Section 2 & 3: <a href="1. DATA_PROCESSING.md">Data Processing.md</a>
-Section 4: not required as it is for R  
+<h4>Data Processing:</h4> <a href="1. DATA_PROCESSING.md">Data Processing.md</a>
 <br/><br/>
 
-<h2>Regression:</h2>
+<h4>Regression:</h4> Regression models (both linear and non-linear) are used for predicting a real value, like salary for example. If your independent variable is time, then you are forecasting future values, otherwise your model is predicting present but unknown values.     
 
-<br/><br/>
-Section 5:
-Regression models (both linear and non-linear) are used for predicting a real value, like salary for example. If your independent variable is time, then you are forecasting future values, otherwise your model is predicting present but unknown values.     
+<br/>
 
-Section 6: Simple Linear Regression  
+<h4>Classification:</h4>  <a href="3. CLASSIFICATION.md">Classification.md</a>
 
 
 
